@@ -1,0 +1,11 @@
+call plug#begin()
+Plug 'preservim/NERDTree'
+Plug 'kristijanhusak/defx-git'
+Plug 'kristijanhusak/defx-icons'
+Plug 'Raimondi/delimitMate'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+Plug 'ryanoasis/vim-devicons'
+Plug 'hashivim/vim-terraform'
+Plug 'hashicorp/terraform-ls'
+call plug#end()
